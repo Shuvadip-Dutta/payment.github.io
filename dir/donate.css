@@ -15,10 +15,9 @@ body {
     margin-top: 0rem;
     color: grey;
     position: absolute;
-    /*top: 50%;*/
     left: 20px;
     font-weight: 100;
-    color: black;
+    color: white;
 }
 
 .navlinks {
