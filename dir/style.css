@@ -7,12 +7,11 @@
 
 body {
     position: relative;
-    background-image: url('../images/bg.jpg');
+    background-image: url('../images/1st.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover; 
+    background-size: cover;
 }
-
 
 nav {
     height: 10vh;
@@ -58,11 +57,11 @@ header {
 }
 
 .navlinks li:hover {
-   text-decoration-line: underline ;
+    text-decoration-line: underline;
 }
 
 .links {
-    text-decoration: none ;
+    text-decoration: none;
     color: white;
     font-size: 1rem;
 }
@@ -103,7 +102,7 @@ main {
     margin-top: 15px;
     background-color: #B18904;
     border: none;
-    text-decoration: none ;
+    text-decoration: none;
     font-weight: bold;
     color: black;
     transition: 300ms linear;
@@ -114,4 +113,3 @@ main {
     background-color: rgba(200, 100, 17);
     transition: 300ms ease-out;
 }
-

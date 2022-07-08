@@ -4,10 +4,10 @@
 
 body {
     position: relative;
-    background-image: url('../images/donateee.jpg');
+    background-image: url('../images/2nd.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover; 
+    background-size: cover;
     overflow-x: hidden;
 }
 
@@ -44,16 +44,18 @@ body {
 }
 
 .navlinks li:hover {
-   text-decoration-line: underline ;
-   background-color: #BDA576;
-   line-height: 15px;
+    text-decoration-line: underline;
+    background-color: #BDA576;
+    line-height: 15px;
 }
 
 .links {
-    text-decoration: none ;
+    text-decoration: none;
     font-size: 1rem;
     color: black;
-}*/
+}
+
+*/
 /*
 .donation-page {
     display: flex;
@@ -79,10 +81,9 @@ form {
     transition: 1000ms linear
 }
 
-
 h2 {
     text-align: center;
-    color: white ;
+    color: white;
     font-size: 1.5rem;
 }
 
@@ -102,5 +103,5 @@ h2 {
 }
 
 .form:hover {
-  background-color: rgba(25, 25, 25, 0.4);
+    background-color: rgba(25, 25, 25, 0.4);
 }
