@@ -113,3 +113,8 @@ main {
     background-color: rgba(200, 100, 17);
     transition: 300ms ease-out;
 }
+
+footer {
+    background-color: blue;
+    color: white;
+}
